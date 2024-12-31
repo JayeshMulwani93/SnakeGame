@@ -1,2 +1,2 @@
 # SnakeGame
-The typical Nokia Snake Game developed using Python
+This is a Snake Game that was a common choice with Nokia phones developed using Python
